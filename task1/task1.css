@@ -1,0 +1,15 @@
+  .margin{
+    margin: 0px;
+  }
+  .box{
+    width: 100%;
+    height: 100vw;
+  }
+  .one{
+    width: 30%;
+    height: 30%;
+    background-color: orange; 
+    margin: 1.66%;
+    float: left;
+    border-radius: 5%;
+  }
